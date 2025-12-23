@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "おおきくなった恐竜",
+  "base_artist": "シャノン",
+  "createdAt": "2025-12-23T10:24:24.443865Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "おおきくなった恐竜",
+      "artist": "シャノン",
+      "has_synced": false,
+      "path": "select/pl_01_おおきくなった恐竜_シャノン.txt"
+    }
+  ]
+}
